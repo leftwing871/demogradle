@@ -8,13 +8,8 @@ plugins {
 }
 
 group = 'com.example'
-version = ''
+version = '1.0'
 sourceCompatibility = '1.8'
-
-
-war {
-    archiveName "${war.baseName}.war"
-}
 
 configurations {
     compileOnly {
