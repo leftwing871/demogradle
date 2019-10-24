@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78240cd-b31a-4736-bcf7-2ae823d4788a" name="Default Changelist" comment="step3.">
+    <list default="true" id="f78240cd-b31a-4736-bcf7-2ae823d4788a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
     </list>
@@ -312,7 +312,7 @@
       <workItem from="1571728297349" duration="2147000" />
       <workItem from="1571732708560" duration="2887000" />
       <workItem from="1571791473339" duration="7042000" />
-      <workItem from="1571878306112" duration="1127000" />
+      <workItem from="1571878306112" duration="2557000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1571727509087</created>
@@ -384,11 +384,32 @@
       <option name="project" value="LOCAL" />
       <updated>1571888079482</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="step3.">
+      <created>1571889098823</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571889098823</updated>
+    </task>
+    <task id="LOCAL-00012" summary="step3.">
+      <created>1571889624432</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571889624432</updated>
+    </task>
+    <task id="LOCAL-00013" summary="aaa">
+      <created>1571907133736</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1571907133736</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14062000" />
+    <option name="totallyTimeSpent" value="15492000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -456,13 +477,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
-    <MESSAGE value="aaa" />
     <MESSAGE value="aaa..." />
     <MESSAGE value="add dockerfile &#10;add Display Localdatetime at Index page" />
     <MESSAGE value="typo" />
     <MESSAGE value="step3" />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="step3." />
+    <MESSAGE value="aaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaa" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demogradle/common/DataMap.java">
