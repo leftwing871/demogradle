@@ -40,4 +40,29 @@ test {
     useJUnitPlatform()
 }
 
+ext {
+    propertyFilePath = "src/main/resources/application.properties"
+}
+
+task dev {
+    copy {
+        from 'src/main/resources/applications/application-dev.properties'
+        into 'src/main/resources'
+
+        rename('application-dev.properties', 'application.properties')
+    }
+}
+
+
+task qa {
+    copy {
+        from 'src/main/resources/applications/application-qa.properties'
+        into 'src/main/resources'
+
+        rename('application-qa.properties', 'application.properties')
+    }
+}
+
+
+//gradle build
 
