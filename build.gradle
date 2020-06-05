@@ -63,6 +63,10 @@ task qa {
     }
 }
 
-
 //gradle build
 
+bootWar {
+    from('./.ebextensions') { into '.ebextensions' }
+}
+
+//https://stackoverflow.com/questions/39207803/clean-way-of-adding-ebextensions-to-spring-boot-jar-using-gradle
