@@ -8,7 +8,7 @@ phases:
       - ./gradlew build
   post_build:
     commands:
-      - echo $(basename ./build/libs/*.*)
+      - echo $(basename ./build/libs/*.war)
       - pwd
 
 cache:
