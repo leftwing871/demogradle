@@ -11,7 +11,7 @@ phases:
       - echo $(basename ./build/libs/*.war)
       - pwd
       - cp ./build/libs/demogradle-1.0.war ./ROOT.war
-      - cp ./codedeploy_hook_scripts/*
+      - cp ./codedeploy_hook_scripts/* ./
       - zip demogradle.zip *.war appspec.yml *.sh
 
 cache:
