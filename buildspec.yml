@@ -20,3 +20,7 @@ cache:
     - '/root/.gradle/caches/**/*'
 
 
+artifacts:
+  files:
+    - ./demogradle.zip
+
