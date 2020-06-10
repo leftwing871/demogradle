@@ -18,3 +18,7 @@ phases:
 cache:
   paths:
     - '/root/.gradle/caches/**/*'
+
+artifacts:
+  files:
+    - ./demogradle.zip
