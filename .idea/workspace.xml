@@ -1,118 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78240cd-b31a-4736-bcf7-2ae823d4788a" name="Default Changelist" comment="add doc">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demogradle/common/DataMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+    <list default="true" id="f78240cd-b31a-4736-bcf7-2ae823d4788a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demogradle/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demogradle/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/classes/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demogradle/controller/HomeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demogradle/DemogradleApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demogradle/controller/GameController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demogradle.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demogradle" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demogradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demogradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,149 +68,107 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>SNAPSHOT</find>
-      <find>WEB-INF</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="step3" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/demogradle/common/DataMap.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/demogradle/controller/HomeController.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-103" />
-    <option name="y" value="-1027" />
-    <option name="width" value="1353" />
-    <option name="height" value="947" />
-  </component>
+  <component name="ProjectId" id="1Ty7gi4x63JsyePhv6G9oBbyh6A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="demogradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demogradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="demogradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demogradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demogradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demogradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demogradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demogradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demogradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demogradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="demogradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demogradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demogradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demogradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demogradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demogradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demogradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demogradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demogradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demogradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demogradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demogradle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demogradle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;redshift" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.ebextensions" />
+      <recent name="$PROJECT_DIR$/src/main/resources/applications" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/applications" />
+    </key>
   </component>
   <component name="RunManager" selected="Spring Boot.DemogradleApplication">
+    <configuration name="demogradle [dev]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dev" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="demogradle [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="demogradle [qa]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="qa" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="demogradle [war]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -300,10 +205,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.demogradle [dev]" />
+        <item itemvalue="Gradle.demogradle [qa]" />
+        <item itemvalue="Gradle.demogradle [jar]" />
         <item itemvalue="Gradle.demogradle [war]" />
         <item itemvalue="JUnit.All in demogradle" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -318,7 +229,32 @@
       <workItem from="1571727421499" duration="859000" />
       <workItem from="1571728297349" duration="2147000" />
       <workItem from="1571732708560" duration="2887000" />
-      <workItem from="1571791473339" duration="3384000" />
+      <workItem from="1571791473339" duration="7042000" />
+      <workItem from="1571878306112" duration="3219000" />
+      <workItem from="1572950043750" duration="3021000" />
+      <workItem from="1573024287946" duration="1847000" />
+      <workItem from="1573730641892" duration="1073000" />
+      <workItem from="1574420602485" duration="640000" />
+      <workItem from="1574761786616" duration="2000" />
+      <workItem from="1590460547310" duration="3025000" />
+      <workItem from="1590464998391" duration="66000" />
+      <workItem from="1590465083256" duration="6978000" />
+      <workItem from="1591359176734" duration="2026000" />
+      <workItem from="1591390203010" duration="3835000" />
+      <workItem from="1591425110736" duration="829000" />
+      <workItem from="1591479650067" duration="2996000" />
+      <workItem from="1591482934154" duration="6572000" />
+      <workItem from="1591569838041" duration="4624000" />
+      <workItem from="1591594978810" duration="372000" />
+      <workItem from="1591596300678" duration="2108000" />
+      <workItem from="1591598793466" duration="148000" />
+      <workItem from="1591599009876" duration="630000" />
+      <workItem from="1591601448908" duration="197000" />
+      <workItem from="1591616306651" duration="3765000" />
+      <workItem from="1591753679907" duration="39000" />
+      <workItem from="1591756037547" duration="46000" />
+      <workItem from="1591756405783" duration="4813000" />
+      <workItem from="1591764549248" duration="209000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1571727509087</created>
@@ -362,11 +298,183 @@
       <option name="project" value="LOCAL" />
       <updated>1571733900334</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add dockerfile &#10;add Display Localdatetime at Index page">
+      <created>1571798841288</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571798841288</updated>
+    </task>
+    <task id="LOCAL-00008" summary="typo">
+      <created>1571802227865</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571802227865</updated>
+    </task>
+    <task id="LOCAL-00009" summary="step3">
+      <created>1571813842203</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571813842203</updated>
+    </task>
+    <task id="LOCAL-00010" summary="...">
+      <created>1571888079482</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1571888079482</updated>
+    </task>
+    <task id="LOCAL-00011" summary="step3.">
+      <created>1571889098823</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571889098823</updated>
+    </task>
+    <task id="LOCAL-00012" summary="step3.">
+      <created>1571889624432</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571889624432</updated>
+    </task>
+    <task id="LOCAL-00013" summary="aaa">
+      <created>1571907133736</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1571907133736</updated>
+    </task>
+    <task id="LOCAL-00014" summary="aaa">
+      <created>1571907299448</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1571907299448</updated>
+    </task>
+    <task id="LOCAL-00015" summary="aaa">
+      <created>1571907375513</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1571907375513</updated>
+    </task>
+    <task id="LOCAL-00016" summary="elasticbeanstalk environment variable 사용코드 추가&#10;&#10;task 메서드 추가 -&gt; 두번째부터 동작 안하는 이슈 있음">
+      <created>1590471904421</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590471904421</updated>
+    </task>
+    <task id="LOCAL-00017" summary="elastic beanstalk .ebextensions 설정 추가">
+      <created>1591398340611</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591398340611</updated>
+    </task>
+    <task id="LOCAL-00018" summary="elastic beanstalk .ebextensions 설정 추가">
+      <created>1591532030356</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1591532030356</updated>
+    </task>
+    <task id="LOCAL-00019" summary="elastic beanstalk .ebextensions 설정 추가">
+      <created>1591589113590</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1591589113590</updated>
+    </task>
+    <task id="LOCAL-00020" summary="elastic beanstalk .ebextensions 설정 추가">
+      <created>1591616367609</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1591616367609</updated>
+    </task>
+    <task id="LOCAL-00021" summary="buildspec.yml 추가">
+      <created>1591617243300</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1591617243300</updated>
+    </task>
+    <task id="LOCAL-00022" summary="elastic beanstalk .ebextensions 설정 추가">
+      <created>1591617828014</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1591617828014</updated>
+    </task>
+    <task id="LOCAL-00023" summary="elastic beanstalk .ebextensions 설정 추가">
+      <created>1591758092994</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1591758092994</updated>
+    </task>
+    <task id="LOCAL-00024" summary="...">
+      <created>1591761542226</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1591761542226</updated>
+    </task>
+    <task id="LOCAL-00025" summary="...">
+      <created>1591761737351</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1591761737351</updated>
+    </task>
+    <task id="LOCAL-00026" summary="...">
+      <created>1591762842848</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1591762842848</updated>
+    </task>
+    <task id="LOCAL-00027" summary="buildspec.yml artifacts 부분을 수정하다">
+      <created>1591763231033</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1591763231033</updated>
+    </task>
+    <task id="LOCAL-00028" summary="buildspec.yml artifacts 부분을 수정하다">
+      <created>1591763604019</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1591763604019</updated>
+    </task>
+    <task id="LOCAL-00029" summary="buildspec.yml artifacts 부분을 수정하다">
+      <created>1591764163066</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1591764163066</updated>
+    </task>
+    <task id="LOCAL-00030" summary="buildspec.yml artifacts 부분을 수정하다">
+      <created>1591764603411</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1591764603411</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Add skip directory">
+      <created>1591834622701</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1591834622701</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9277000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,130 +485,178 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-103" y="-1027" width="1353" height="947" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20061022" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="aws.explorer" order="4" side_tool="true" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.52402747" visible="true" weight="0.30526316" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.29073757" weight="0.32996207" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32996207" />
-      <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49828473" weight="0.32996207" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.47597253" side_tool="true" visible="true" weight="0.30526316" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49961862" weight="0.32982457" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
-    <MESSAGE value="aaa" />
     <MESSAGE value="aaa..." />
-    <option name="LAST_COMMIT_MESSAGE" value="aaa..." />
+    <MESSAGE value="add dockerfile &#10;add Display Localdatetime at Index page" />
+    <MESSAGE value="typo" />
+    <MESSAGE value="step3" />
+    <MESSAGE value="step3." />
+    <MESSAGE value="aaa" />
+    <MESSAGE value="elasticbeanstalk environment variable 사용코드 추가&#10;&#10;task 메서드 추가 -&gt; 두번째부터 동작 안하는 이슈 있음" />
+    <MESSAGE value="buildspec.yml 추가" />
+    <MESSAGE value="elastic beanstalk .ebextensions 설정 추가" />
+    <MESSAGE value="..." />
+    <MESSAGE value="buildspec.yml artifacts 부분을 수정하다" />
+    <MESSAGE value="Add skip directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add skip directory" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demogradle.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demogradle/DemogradleApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demogradle/controller/GameController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demogradle/common/DataMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2666">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demogradle/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="393" y="128" key="#DemogradleApplication" timestamp="1590460595607">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="393" y="128" key="#DemogradleApplication/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1590460595607" />
+    <state x="819" y="269" key="#Inspections" timestamp="1590470340858">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="819" y="269" key="#Inspections/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1590470340858" />
+    <state x="740" y="402" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590460749675">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="740" y="402" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1590460749675" />
+    <state x="477" y="101" key="CommitChangelistDialog2" timestamp="1591834622507">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="-773" y="-977" key="CommitChangelistDialog2/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@-1127.-1057.1920.1008" timestamp="1591589113319" />
+    <state x="310" y="105" key="CommitChangelistDialog2/-1127.-1057.1920.1057/0.23.1680.1027/793.-1057.1920.1008@0.23.1680.1027" timestamp="1590468571810" />
+    <state x="477" y="101" key="CommitChangelistDialog2/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1591834622507" />
+    <state x="310" y="101" key="CommitChangelistDialog2/-1127.-1057.1920.1057/0.23.1680.981/793.-1057.1920.1057@0.23.1680.981" timestamp="1591756641116" />
+    <state x="310" y="101" key="CommitChangelistDialog2/-142.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1591617827725" />
+    <state x="477" y="105" key="CommitChangelistDialog2/-1920.-1057.1920.1008/0.23.1680.1027@0.23.1680.1027" timestamp="1591764162872" />
+    <state x="477" y="101" key="CommitChangelistDialog2/-1920.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1591764603146" />
+    <state x="310" y="101" key="CommitChangelistDialog2/0.23.1680.980@0.23.1680.980" timestamp="1591398340159" />
+    <state x="310" y="101" key="CommitChangelistDialog2/0.23.1680.981@0.23.1680.981" timestamp="1591532030030" />
+    <state x="55" y="96" key="DiffContextDialog" timestamp="1591756639337">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="55" y="96" key="DiffContextDialog/-1127.-1057.1920.1057/0.23.1680.981/793.-1057.1920.1057@0.23.1680.981" timestamp="1591756639337" />
+    <state width="702" height="225" key="GridCell.Tab.0.bottom" timestamp="1591764372579">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="761" height="225" key="GridCell.Tab.0.bottom/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@-1127.-1057.1920.1008" timestamp="1591589527532" />
+    <state width="743" height="225" key="GridCell.Tab.0.bottom/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@0.23.1680.1027" timestamp="1590476431227" />
+    <state width="744" height="225" key="GridCell.Tab.0.bottom/-1127.-1057.1920.1057/0.23.1680.1027/793.-1057.1920.1008@0.23.1680.1027" timestamp="1590469224432" />
+    <state width="743" height="225" key="GridCell.Tab.0.bottom/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1590470115047" />
+    <state width="742" height="225" key="GridCell.Tab.0.bottom/-142.-1057.1920.1057/0.23.1680.980@-142.-1057.1920.1057" timestamp="1591362187352" />
+    <state width="742" height="225" key="GridCell.Tab.0.bottom/-142.-1057.1920.1057/0.23.1680.981@0.23.1680.981" timestamp="1591359284377" />
+    <state width="702" height="225" key="GridCell.Tab.0.bottom/-1920.-1057.1920.1008/0.23.1680.1027@0.23.1680.1027" timestamp="1591764372579" />
+    <state width="761" height="225" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1591594815132" />
+    <state width="702" height="225" key="GridCell.Tab.0.center" timestamp="1591764372578">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="761" height="225" key="GridCell.Tab.0.center/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@-1127.-1057.1920.1008" timestamp="1591589527531" />
+    <state width="743" height="225" key="GridCell.Tab.0.center/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@0.23.1680.1027" timestamp="1590476431227" />
+    <state width="744" height="225" key="GridCell.Tab.0.center/-1127.-1057.1920.1057/0.23.1680.1027/793.-1057.1920.1008@0.23.1680.1027" timestamp="1590469224431" />
+    <state width="743" height="225" key="GridCell.Tab.0.center/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1590470115046" />
+    <state width="742" height="225" key="GridCell.Tab.0.center/-142.-1057.1920.1057/0.23.1680.980@-142.-1057.1920.1057" timestamp="1591362187352" />
+    <state width="742" height="225" key="GridCell.Tab.0.center/-142.-1057.1920.1057/0.23.1680.981@0.23.1680.981" timestamp="1591359284376" />
+    <state width="702" height="225" key="GridCell.Tab.0.center/-1920.-1057.1920.1008/0.23.1680.1027@0.23.1680.1027" timestamp="1591764372578" />
+    <state width="761" height="225" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1591594815131" />
+    <state width="702" height="225" key="GridCell.Tab.0.left" timestamp="1591764372566">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="761" height="225" key="GridCell.Tab.0.left/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@-1127.-1057.1920.1008" timestamp="1591589527530" />
+    <state width="743" height="225" key="GridCell.Tab.0.left/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@0.23.1680.1027" timestamp="1590476431226" />
+    <state width="744" height="225" key="GridCell.Tab.0.left/-1127.-1057.1920.1057/0.23.1680.1027/793.-1057.1920.1008@0.23.1680.1027" timestamp="1590469224430" />
+    <state width="743" height="225" key="GridCell.Tab.0.left/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1590470115046" />
+    <state width="742" height="225" key="GridCell.Tab.0.left/-142.-1057.1920.1057/0.23.1680.980@-142.-1057.1920.1057" timestamp="1591362187352" />
+    <state width="742" height="225" key="GridCell.Tab.0.left/-142.-1057.1920.1057/0.23.1680.981@0.23.1680.981" timestamp="1591359284375" />
+    <state width="702" height="225" key="GridCell.Tab.0.left/-1920.-1057.1920.1008/0.23.1680.1027@0.23.1680.1027" timestamp="1591764372566" />
+    <state width="761" height="225" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1591594815131" />
+    <state width="702" height="225" key="GridCell.Tab.0.right" timestamp="1591764372579">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="761" height="225" key="GridCell.Tab.0.right/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@-1127.-1057.1920.1008" timestamp="1591589527531" />
+    <state width="743" height="225" key="GridCell.Tab.0.right/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@0.23.1680.1027" timestamp="1590476431227" />
+    <state width="744" height="225" key="GridCell.Tab.0.right/-1127.-1057.1920.1057/0.23.1680.1027/793.-1057.1920.1008@0.23.1680.1027" timestamp="1590469224431" />
+    <state width="743" height="225" key="GridCell.Tab.0.right/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1590470115047" />
+    <state width="742" height="225" key="GridCell.Tab.0.right/-142.-1057.1920.1057/0.23.1680.980@-142.-1057.1920.1057" timestamp="1591362187352" />
+    <state width="742" height="225" key="GridCell.Tab.0.right/-142.-1057.1920.1057/0.23.1680.981@0.23.1680.981" timestamp="1591359284377" />
+    <state width="702" height="225" key="GridCell.Tab.0.right/-1920.-1057.1920.1008/0.23.1680.1027@0.23.1680.1027" timestamp="1591764372579" />
+    <state width="761" height="225" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1591594815132" />
+    <state width="702" height="225" key="GridCell.Tab.1.bottom" timestamp="1591764372581">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="761" height="225" key="GridCell.Tab.1.bottom/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@-1127.-1057.1920.1008" timestamp="1591589527533" />
+    <state width="744" height="225" key="GridCell.Tab.1.bottom/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@0.23.1680.1027" timestamp="1590476431219" />
+    <state width="744" height="225" key="GridCell.Tab.1.bottom/-1127.-1057.1920.1057/0.23.1680.1027/793.-1057.1920.1008@0.23.1680.1027" timestamp="1590468714683" />
+    <state width="1463" height="225" key="GridCell.Tab.1.bottom/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1590461103448" />
+    <state width="742" height="225" key="GridCell.Tab.1.bottom/-142.-1057.1920.1057/0.23.1680.980@-142.-1057.1920.1057" timestamp="1591362187353" />
+    <state width="742" height="225" key="GridCell.Tab.1.bottom/-142.-1057.1920.1057/0.23.1680.981@0.23.1680.981" timestamp="1591359284379" />
+    <state width="702" height="225" key="GridCell.Tab.1.bottom/-1920.-1057.1920.1008/0.23.1680.1027@0.23.1680.1027" timestamp="1591764372581" />
+    <state width="761" height="225" key="GridCell.Tab.1.bottom/0.23.1680.980@0.23.1680.980" timestamp="1591594815133" />
+    <state width="702" height="225" key="GridCell.Tab.1.center" timestamp="1591764372580">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="761" height="225" key="GridCell.Tab.1.center/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@-1127.-1057.1920.1008" timestamp="1591589527533" />
+    <state width="744" height="225" key="GridCell.Tab.1.center/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@0.23.1680.1027" timestamp="1590476431218" />
+    <state width="744" height="225" key="GridCell.Tab.1.center/-1127.-1057.1920.1057/0.23.1680.1027/793.-1057.1920.1008@0.23.1680.1027" timestamp="1590468714683" />
+    <state width="1463" height="225" key="GridCell.Tab.1.center/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1590461103447" />
+    <state width="742" height="225" key="GridCell.Tab.1.center/-142.-1057.1920.1057/0.23.1680.980@-142.-1057.1920.1057" timestamp="1591362187353" />
+    <state width="742" height="225" key="GridCell.Tab.1.center/-142.-1057.1920.1057/0.23.1680.981@0.23.1680.981" timestamp="1591359284378" />
+    <state width="702" height="225" key="GridCell.Tab.1.center/-1920.-1057.1920.1008/0.23.1680.1027@0.23.1680.1027" timestamp="1591764372580" />
+    <state width="761" height="225" key="GridCell.Tab.1.center/0.23.1680.980@0.23.1680.980" timestamp="1591594815132" />
+    <state width="702" height="225" key="GridCell.Tab.1.left" timestamp="1591764372580">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="761" height="225" key="GridCell.Tab.1.left/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@-1127.-1057.1920.1008" timestamp="1591589527532" />
+    <state width="744" height="225" key="GridCell.Tab.1.left/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@0.23.1680.1027" timestamp="1590476431218" />
+    <state width="744" height="225" key="GridCell.Tab.1.left/-1127.-1057.1920.1057/0.23.1680.1027/793.-1057.1920.1008@0.23.1680.1027" timestamp="1590468714682" />
+    <state width="1463" height="225" key="GridCell.Tab.1.left/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1590461103446" />
+    <state width="742" height="225" key="GridCell.Tab.1.left/-142.-1057.1920.1057/0.23.1680.980@-142.-1057.1920.1057" timestamp="1591362187352" />
+    <state width="742" height="225" key="GridCell.Tab.1.left/-142.-1057.1920.1057/0.23.1680.981@0.23.1680.981" timestamp="1591359284377" />
+    <state width="702" height="225" key="GridCell.Tab.1.left/-1920.-1057.1920.1008/0.23.1680.1027@0.23.1680.1027" timestamp="1591764372580" />
+    <state width="761" height="225" key="GridCell.Tab.1.left/0.23.1680.980@0.23.1680.980" timestamp="1591594815132" />
+    <state width="702" height="225" key="GridCell.Tab.1.right" timestamp="1591764372581">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="761" height="225" key="GridCell.Tab.1.right/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@-1127.-1057.1920.1008" timestamp="1591589527533" />
+    <state width="744" height="225" key="GridCell.Tab.1.right/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@0.23.1680.1027" timestamp="1590476431219" />
+    <state width="744" height="225" key="GridCell.Tab.1.right/-1127.-1057.1920.1057/0.23.1680.1027/793.-1057.1920.1008@0.23.1680.1027" timestamp="1590468714683" />
+    <state width="1463" height="225" key="GridCell.Tab.1.right/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1590461103448" />
+    <state width="742" height="225" key="GridCell.Tab.1.right/-142.-1057.1920.1057/0.23.1680.980@-142.-1057.1920.1057" timestamp="1591362187353" />
+    <state width="742" height="225" key="GridCell.Tab.1.right/-142.-1057.1920.1057/0.23.1680.981@0.23.1680.981" timestamp="1591359284378" />
+    <state width="702" height="225" key="GridCell.Tab.1.right/-1920.-1057.1920.1008/0.23.1680.1027@0.23.1680.1027" timestamp="1591764372581" />
+    <state width="761" height="225" key="GridCell.Tab.1.right/0.23.1680.980@0.23.1680.980" timestamp="1591594815132" />
+    <state x="611" y="266" key="Vcs.Push.Dialog.v2" timestamp="1591834625703">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="-429" y="-807" key="Vcs.Push.Dialog.v2/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@-1127.-1057.1920.1008" timestamp="1591589118080" />
+    <state x="611" y="266" key="Vcs.Push.Dialog.v2/-1127.-1057.1920.1057/0.23.1680.980/793.-1057.1920.1057@0.23.1680.980" timestamp="1591834625703" />
+    <state x="611" y="266" key="Vcs.Push.Dialog.v2/-142.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1591617830015" />
+    <state x="611" y="278" key="Vcs.Push.Dialog.v2/-1920.-1057.1920.1008/0.23.1680.1027@0.23.1680.1027" timestamp="1591764164490" />
+    <state x="611" y="266" key="Vcs.Push.Dialog.v2/-1920.-1057.1920.1057/0.23.1680.980@0.23.1680.980" timestamp="1591764605747" />
+    <state x="611" y="266" key="Vcs.Push.Dialog.v2/0.23.1680.980@0.23.1680.980" timestamp="1591398356059" />
+    <state x="611" y="266" key="Vcs.Push.Dialog.v2/0.23.1680.981@0.23.1680.981" timestamp="1591532039822" />
+    <state x="560" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591480546432">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="560" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.980@0.23.1680.980" timestamp="1591480546432" />
+    <state x="652" y="314" width="683" height="486" key="find.popup" timestamp="1591597211761">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="652" y="314" width="683" height="486" key="find.popup/0.23.1680.980@0.23.1680.980" timestamp="1591597211761" />
+    <state x="-322" y="-799" key="git4idea.branch.GitSmartOperationDialog" timestamp="1591589505365">
+      <screen x="-1127" y="-1057" width="1920" height="1008" />
+    </state>
+    <state x="-322" y="-799" key="git4idea.branch.GitSmartOperationDialog/-1127.-1057.1920.1008/0.23.1680.1027/793.-1057.1920.1057@-1127.-1057.1920.1008" timestamp="1591589505365" />
+    <state x="441" y="222" key="run.anything.popup" timestamp="1591480469674">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="441" y="222" key="run.anything.popup/0.23.1680.980@0.23.1680.980" timestamp="1591480469674" />
   </component>
   <component name="masterDetails">
     <states>
