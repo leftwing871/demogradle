@@ -73,3 +73,7 @@ fabric.properties
 #build
 build/
 out/
+
+.DS_Store
+.idea
+
