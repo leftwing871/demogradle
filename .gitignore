@@ -76,4 +76,6 @@ out/
 
 .DS_Store
 .idea
+.gradle
+
 
