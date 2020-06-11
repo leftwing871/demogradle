@@ -1,0 +1,25 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo Build Starting on `date`
+      - chmod +x ./gradlew
+      - ./gradlew build
+  post_build:
+    commands:
+      - echo $(basename ./build/libs/*.war)
+      - pwd
+      - cp ./build/libs/demogradle-1.0.war ./ROOT.war
+      - cp ./codedeploy_hook_scripts/* ./
+      - ls -al
+      - zip demogradle.zip *.war appspec.yml *.sh
+
+cache:
+  paths:
+    - '/root/.gradle/caches/**/*'
+
+artifacts:
+  files:
+    - ./demogradle.zip
+

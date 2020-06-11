@@ -15,6 +15,7 @@ configurations {
     compileOnly {
         extendsFrom annotationProcessor
     }
+
 }
 
 repositories {
@@ -24,20 +25,48 @@ repositories {
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
     compileOnly 'org.projectlombok:lombok'
+    compileOnly 'org.springframework.boot:spring-boot-devtools'
+    annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
     annotationProcessor 'org.projectlombok:lombok'
-    testImplementation('org.springframework.boot:spring-boot-starter-test') {
-        exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
-    }
+    providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
     //jsp
     compile "org.apache.tomcat.embed:tomcat-embed-jasper"
     compile "javax.servlet:jstl:1.2"
-
-    testCompile 'junit:junit:4.12'
 }
 
 test {
     useJUnitPlatform()
 }
 
+ext {
+    propertyFilePath = "src/main/resources/application.properties"
+}
 
+task dev {
+    copy {
+        from 'src/main/resources/applications/application-dev.properties'
+        into 'src/main/resources'
+
+        rename('application-dev.properties', 'application.properties')
+    }
+}
+
+
+task qa {
+    copy {
+        from 'src/main/resources/applications/application-qa.properties'
+        into 'src/main/resources'
+
+        rename('application-qa.properties', 'application.properties')
+    }
+}
+
+//gradle build
+
+bootWar {
+    from('./.ebextensions') { into '.ebextensions' }
+}
+
+//https://stackoverflow.com/questions/39207803/clean-way-of-adding-ebextensions-to-spring-boot-jar-using-gradle

@@ -12,5 +12,12 @@ home
 <h3>현재 시각은 ${now} 입니다.</h3>
 <br />
 <h3>현재 IP ${ip} </h3>
+
+<h3>JDBC_CONNECTION_STRING : ${JDBC_CONNECTION_STRING} </h3>
+
+
+
+<br />
+<h3>수정사항이 생겼습니다. 9</h3>
 </body>
 </html>
